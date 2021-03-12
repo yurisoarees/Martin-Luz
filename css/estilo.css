@@ -1,0 +1,68 @@
+/*configuração geral da fonte*/
+html{
+	font-family: "Dan Sans", sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 32px;
+	color: #444548;
+}
+
+header{
+	background-color: #0B27FA;
+	color: #FFFFFF;
+	height: 450px;
+	margin-bottom: 100px;
+}
+
+/*ebook*/
+header h5{
+	color: #00BA91;
+	margin-top: 78px;
+}
+
+/*alinhamento da logo*/
+header img{
+	margin-top: 78px;
+}
+
+
+/*estilização dos links*/
+a{
+	color: #0B27FA;
+	font-weight: bold;
+}
+
+a:link{
+	color: #0B27FA;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #0B27FA;
+}
+/*estilização dos links fim*/
+
+form button{
+	background: #00BA91;
+	text
+}
+
+form label{
+	color: #021B51;
+	font-weight: bold;
+}
+
+/*botão formulário*/
+input.submit{
+	background-color: #00BA91;
+	height: 45px;
+	width: 30%;	
+}
+
+/*botão rodapé*/
+footer.submit{
+	background-color: #00BA91;
+	height: 45px;
+	width: 30%;	
+}
